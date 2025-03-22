@@ -21,7 +21,7 @@ export default function About() {
       <TestimoniaHomeOne />
       <CtaHomeOne />
       <PortfolioHomeOne style_2={true} />
-      <BrandHomeOne style_3={true} />
+      {/* <BrandHomeOne style_3={true} /> */}
       <SubscribeHomeThree />
       <FooterTwo />
     </>

@@ -1,12 +1,11 @@
-
-import MobileMenu from '@/layouts/headers/menu/MobileMenu'
-import Link from 'next/link'
-import React from 'react'
+import MobileMenu from "@/layouts/headers/menu/MobileMenu";
+import Link from "next/link";
+import React from "react";
 
 type Props = {
-  open: boolean,
-  setOpen: React.Dispatch<React.SetStateAction<boolean>>
-}
+  open: boolean;
+  setOpen: React.Dispatch<React.SetStateAction<boolean>>;
+};
 
 export default function Offcanvas({ open, setOpen }: Props) {
   return (
@@ -38,7 +37,12 @@ export default function Offcanvas({ open, setOpen }: Props) {
                       <i className="fal fa-map-marker-alt"></i>
                     </div>
                     <div className="offcanvas__contact-text">
-                      <a target="_blank" href="#">Us 1216, road 45 house of street</a>
+                      <a
+                        target="_blank"
+                        href="https://maps.app.goo.gl/ZtZJhD9RRNVrheKD8"
+                      >
+                        Cairo Alexandria desert road km 80, Cairo, Egypt
+                      </a>
                     </div>
                   </li>
                   <li className="d-flex align-items-center">
@@ -46,8 +50,11 @@ export default function Offcanvas({ open, setOpen }: Props) {
                       <i className="fal fa-envelope"></i>
                     </div>
                     <div className="offcanvas__contact-text">
-                      <a href="mailto:demo23yourmail.com"><span
-                        className="mailto:demo23yourmail.com">demo23yourmail.com</span></a>
+                      <a href="mailto:Sherifakira@rahaya.com">
+                        <span className="mailto:Sherifakira@rahaya.com">
+                          Sherifakira@rahaya.com
+                        </span>
+                      </a>
                     </div>
                   </li>
                   <li className="d-flex align-items-center">
@@ -55,7 +62,9 @@ export default function Offcanvas({ open, setOpen }: Props) {
                       <i className="fal fa-clock"></i>
                     </div>
                     <div className="offcanvas__contact-text">
-                      <a target="_blank" href="#">Mod-friday, 06am -02pm</a>
+                      <a target="_blank" href="#">
+                        Mod-friday, 06am -02pm
+                      </a>
                     </div>
                   </li>
                   <li className="d-flex align-items-center">
@@ -63,7 +72,7 @@ export default function Offcanvas({ open, setOpen }: Props) {
                       <i className="far fa-phone"></i>
                     </div>
                     <div className="offcanvas__contact-text">
-                      <a href="tel:+11002345909">(307) 555-0133</a>
+                      <a href="tel:+01206104083">+20 1206104083</a>
                     </div>
                   </li>
                 </ul>
@@ -75,17 +84,28 @@ export default function Offcanvas({ open, setOpen }: Props) {
                 </div>
                 <h4>Social Media</h4>
                 <div className="social-icon d-flex align-items-center">
-                  <a href="#"><i className="fab fa-facebook-f"></i></a>
-                  <a href="#"><i className="fab fa-twitter"></i></a>
-                  <a href="#"><i className="fab fa-youtube"></i></a>
-                  <a href="#"><i className="fab fa-linkedin-in"></i></a>
+                  <a href="#">
+                    <i className="fab fa-facebook-f"></i>
+                  </a>
+                  <a href="#">
+                    <i className="fab fa-twitter"></i>
+                  </a>
+                  <a href="#">
+                    <i className="fab fa-youtube"></i>
+                  </a>
+                  <a href="#">
+                    <i className="fab fa-linkedin-in"></i>
+                  </a>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div className={`offcanvas__overlay ${open ? "overlay-open" : ""}`} onClick={() => setOpen(false)}></div>
+      <div
+        className={`offcanvas__overlay ${open ? "overlay-open" : ""}`}
+        onClick={() => setOpen(false)}
+      ></div>
     </>
-  )
+  );
 }
