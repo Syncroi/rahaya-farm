@@ -23,7 +23,7 @@ const menu_data: DataType[] = [
 		id: 1,
 		title: "Home",
 		link: "#",
-		img_dropdown: true,
+		img_dropdown: false,
 		sub_menus: [
 			{ link: "/", title: "Home 01", demo_img: demo_img_1 },
 			{ link: "/home-2", title: "Home 02", demo_img: demo_img_2 },
@@ -56,21 +56,21 @@ const menu_data: DataType[] = [
 			{ link: "/gallery-details", title: "Gallery Details" },
 		],
 	},
-	{
-		id: 5,
-		title: "Blog",
-		link: "#",
-		has_dropdown: true,
-		sub_menus: [
-			{ link: "/blog", title: "Blog" },
-			{ link: "/blog-details", title: "Blog Details" },
-		],
-	},
+	// {
+	// 	id: 5,
+	// 	title: "Blog",
+	// 	link: "#",
+	// 	has_dropdown: true,
+	// 	sub_menus: [
+	// 		{ link: "/blog", title: "Blog" },
+	// 		{ link: "/blog-details", title: "Blog Details" },
+	// 	],
+	// },
 	{
 		id: 6,
-		title: "Pages",
-		link: "#",
-		has_dropdown: true,
+		title: "Products",
+		link: "/product-list",
+		has_dropdown: false,
 		sub_menus: [
 			{ link: "/about", title: "About" },
 			{ link: "/product-list", title: "Product" },
