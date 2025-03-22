@@ -17,13 +17,13 @@ export default function HeaderTwo() {
       <div className="header-top-section style-v01 d-lg-block d-none">
         <div className="container">
           <div className="header-top-wrapper">
-            <a href="#" className="location-area flex gap-2">
+            <a href="" className="location-area flex gap-2">
               <i className="fa-solid fa-location-dot"></i>
               <span>Cairo Alexandria desert road km 80, Cairo, Egypt</span>
             </a>
             <ul className="contact-list">
               <li>
-                <a href="#">
+                <a href=" tel:+20 1114288800" className="link" target="_blank">
                   <i className="fa-solid fa-phone"></i>
                   +20 1114288800
                 </a>
@@ -76,7 +76,7 @@ export default function HeaderTwo() {
                   </a>
                   <div className="header-button d-sm-block d-none">
                     <Link href="/contact" className="cmn-btn round100">
-                      Get A Quote
+                      Book An Appointment
                       <i className="fa-solid fa-arrow-right"></i>
                     </Link>
                   </div>

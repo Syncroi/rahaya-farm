@@ -78,7 +78,7 @@ export default function Offcanvas({ open, setOpen }: Props) {
                 </ul>
                 <div className="header-button mt-4 mb-4">
                   <Link href="/contact" className="cmn-btn">
-                    Get A Quote
+                    Book An Appointment
                     <i className="fa-solid fa-arrow-right"></i>
                   </Link>
                 </div>

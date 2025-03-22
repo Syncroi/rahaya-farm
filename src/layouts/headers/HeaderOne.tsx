@@ -52,7 +52,7 @@ export default function HeaderOne({ style_2 }: PropsType) {
                       href="/contact"
                       className="cmn-btn d-center round100 cmn-white-clr"
                     >
-                      Get A Quote
+                      Book An Appointment
                       <i className="fa-solid fa-arrow-right"></i>
                     </Link>
                   </div>
