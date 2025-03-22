@@ -31,10 +31,21 @@ export default function FooterTwo() {
                       produce that nourishes both people and the planet.
                     </p>
                     <div className="social-wrapper social-empact d-flex align-items-center">
-                      <a href="#" className="white-clr">
+                      <a
+                        target="_blank"
+                        href="https://www.facebook.com/people/Rahaya-farm/61568240136934/"
+                        className="white-clr"
+                      >
                         <i className="white-clr fab fa-facebook-f"></i>
+                      </a>{" "}
+                      <a
+                        href="https://www.instagram.com/rahaya_farm/"
+                        className="white-clr"
+                        target="_blank"
+                      >
+                        <i className="white-clr fa-brands fa-instagram"></i>
                       </a>
-                      <a href="#" className="white-clr">
+                      {/* <a href="#" className="white-clr">
                         <svg
                           width="11"
                           height="12"
@@ -47,13 +58,13 @@ export default function FooterTwo() {
                             fill="white-clr"
                           />
                         </svg>
-                      </a>
-                      <a href="#" className="white-clr">
+                      </a> */}
+                      {/* <a href="#" className="white-clr">
                         <i className="white-clr fa-brands fa-linkedin-in"></i>
                       </a>
                       <a href="#" className="white-clr">
                         <i className="white-clr fa-brands fa-pinterest-p"></i>
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>
@@ -105,14 +116,18 @@ export default function FooterTwo() {
                       </a>
                     </li>
                     <li>
-                      <a href="#" className="link">
+                      <a href="tel:01114288800" className="link">
                         <i className="fa-solid fa-phone"></i>
                         01114288800
                       </a>
                     </li>
                     <li>
-                      <a href="#" className="link">
-                        <FaWhatsapp fill="lightgreen" />
+                      <a
+                        target="_blank"
+                        href="https://wa.me/201206104083"
+                        className="link"
+                      >
+                        <FaWhatsapp className="my-auto" fill="lightgreen" />
                         01206104083
                       </a>
                     </li>

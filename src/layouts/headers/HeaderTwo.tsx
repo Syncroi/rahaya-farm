@@ -17,21 +17,21 @@ export default function HeaderTwo() {
       <div className="header-top-section style-v01 d-lg-block d-none">
         <div className="container">
           <div className="header-top-wrapper">
-            <a href="#" className="location-area">
+            <a href="#" className="location-area flex gap-2">
               <i className="fa-solid fa-location-dot"></i>
-              2464 Royal Ln. Mesa, New Jersey 45463
+              <span>Cairo Alexandria desert road km 80, Cairo, Egypt</span>
             </a>
             <ul className="contact-list">
               <li>
                 <a href="#">
                   <i className="fa-solid fa-phone"></i>
-                  (629) 555-0129
+                  +20 1114288800
                 </a>
               </li>
               <li>
-                <a href="debbie.baker@example.com" className="link">
+                <a href="mailto:MohamedKh@Syncroi.com" className="link">
                   <i className="fa-solid fa-envelope"></i>
-                  debbie.baker@example.com
+                  MohamedKh@Syncroi.com
                 </a>
               </li>
             </ul>

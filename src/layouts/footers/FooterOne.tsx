@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
+import { FaWhatsapp } from "react-icons/fa";
 
 export default function FooterOne() {
   return (
@@ -29,7 +30,11 @@ export default function FooterOne() {
                       Cairo Alexandria desert road km 80, <br /> Cairo, Egypt
                     </p>
                     <div className="social-wrapper social-empact d-flex align-items-center">
-                      <a href="#" className="white-clr">
+                      <a
+                        target="_blank"
+                        href="https://www.facebook.com/people/Rahaya-farm/61568240136934/"
+                        className="white-clr"
+                      >
                         <i className="white-clr fab fa-facebook-f"></i>
                       </a>
                       <a href="#" className="white-clr">
@@ -128,20 +133,30 @@ export default function FooterOne() {
                     <li>
                       <a href="#">
                         <i className="fa-solid fa-envelope"></i>
-                        debra.holt@example.com
+                        MohamedKh@Syncroi.com
                       </a>
                     </li>
                     <li>
                       <a href="info@example.com" className="link">
                         <i className="fa-solid fa-location-dot"></i>
-                        1901 Thornridge Cir. Shiloh, <br /> Hawaii 81063
+                        Cairo Alexandria desert road <br />
+                        km 80, Cairo, Egypt
                       </a>
                     </li>
                     <li>
-                      <a href="#" className="link">
+                      <a href="tel:01114288800" className="link">
                         <i className="fa-solid fa-phone"></i>
-                        (270) 555-0117 <br />
-                        (270) 555-0118
+                        01114288800
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        target="_blank"
+                        href="https://wa.me/201206104083"
+                        className="link"
+                      >
+                        <FaWhatsapp className="my-auto" fill="lightgreen" />
+                        01206104083
                       </a>
                     </li>
                   </ul>
