@@ -109,7 +109,7 @@ export default function FooterTwo() {
                       </a>
                     </li>
                     <li>
-                      <a href="info@example.com" className="link">
+                      <a href="Mohamedkh@Syncroi.com" className="link">
                         <i className="fa-solid fa-location-dot"></i>
                         Cairo Alexandria desert road <br />
                         km 80, Cairo, Egypt

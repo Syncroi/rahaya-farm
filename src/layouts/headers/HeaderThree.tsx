@@ -16,29 +16,35 @@ export default function HeaderThree() {
         id="header-sticky"
         className={`header-common-adjustment ${sticky ? "sticky" : ""}`}
       >
-        <Link href="/" className="logo-v04">
+        <Link href="/" className="">
           <Image
             src="/assets/rahayalogo.jpg"
-            width={100}
-            height={100}
+            width={150}
+            height={150}
             alt="logo-img"
+            className=""
           />
         </Link>
         <div className="topheader-mainheader">
           <div className="header-top-section topcmn-style d-lg-block d-none">
             <div className="container">
-              <div className="header-top-wrapper">
-                <ul className="contact-list">
+              <div className="header-top-wrapper flex justify-content-end ">
+                <ul className="contact-list ">
                   <li>
                     <a href="#">
                       <i className="fa-solid fa-envelope p1-clr"></i>
-                      info@example.com
+                      Mohamedkh@Syncroi.com
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="link">
-                      <i className="fa-solid fa-location-dot p1-clr"></i> 9991
-                      Ohio St. Califirnia, 10299
+                    <a
+                      href="https://maps.app.goo.gl/ZtZJhD9RRNVrheKD8"
+                      target="_blank"
+                      className="link"
+                    >
+                      <i className="fa-solid fa-location-dot p1-clr"></i> Cairo
+                      Alexandria desert road <br />
+                      km 80, Cairo, Egypt
                     </a>
                   </li>
                 </ul>

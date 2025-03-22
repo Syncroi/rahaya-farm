@@ -1,7 +1,5 @@
-
-
-import Link from 'next/link'
-import React from 'react'
+import Link from "next/link";
+import React from "react";
 
 export default function AboutHomeOne() {
   return (
@@ -11,10 +9,28 @@ export default function AboutHomeOne() {
           <div className="row g-4 align-items-center justify-content-center">
             <div className="col-lg-6 col-md-6 col-sm-8 order-md-0 order-1">
               <div className="about-thumv01 position-relative">
-                <img src="assets/img/about/choose-man.png" alt="img" className="mimg" />
-                <img src="assets/img/about/f-food.png" alt="img" className="f-food" />
-                <img src="assets/img/about/l-food.png" alt="img" className="l-food wow fadeInLeft" data-wow-delay=".5s" />
-                <img src="assets/img/about/t-food.png" alt="img" className="t-food wow fadeInLeft" data-wow-delay=".7s" />
+                <img
+                  src="assets/img/about/choose-man.png"
+                  alt="img"
+                  className="mimg"
+                />
+                <img
+                  src="assets/img/about/f-food.png"
+                  alt="img"
+                  className="f-food"
+                />
+                <img
+                  src="assets/img/about/l-food.png"
+                  alt="img"
+                  className="l-food wow fadeInLeft"
+                  data-wow-delay=".5s"
+                />
+                <img
+                  src="assets/img/about/t-food.png"
+                  alt="img"
+                  className="t-food wow fadeInLeft"
+                  data-wow-delay=".7s"
+                />
               </div>
             </div>
             <div className="col-lg-6 col-md-6">
@@ -27,26 +43,30 @@ export default function AboutHomeOne() {
                     Bringing natures bounty to your plate
                   </h2>
                   <p className="wow fadeInUp" data-wow-delay=".4s">
-                    Agriculture and farming are essential industries that involve the cultivation of crops,
-                    raising of livestock, and
+                    Agriculture and farming are essential industries that
+                    involve the cultivation of crops, raising of livestock, and
                     production
                   </p>
                   <div className="progress_bar d-grid gap-xxl-4 gap-4">
                     <div className="progress_bar_item">
-                      <div className="per-title d-flex align-items-center justify-content-between"
-                        style={{ width: "70%" }}>
-                        <div className="item_label p900-clr">Pure And Organic</div>
-                        <div className="item_value p900-clr">70%</div>
+                      <div
+                        className="per-title d-flex align-items-center justify-content-between"
+                        style={{ width: "70%" }}
+                      >
+                        <div className="item_label p900-clr">
+                          Pure And Organic
+                        </div>
                       </div>
                       <div className="item_bar">
                         <div className="progress" data-progress="70"></div>
                       </div>
                     </div>
                     <div className="progress_bar_item">
-                      <div className="per-title d-flex align-items-center justify-content-between"
-                        style={{ width: "80%" }}>
+                      <div
+                        className="per-title d-flex align-items-center justify-content-between"
+                        style={{ width: "80%" }}
+                      >
                         <div className="item_label p900-clr">Healthy Food</div>
-                        <div className="item_value p900-clr">80%</div>
                       </div>
                       <div className="item_bar">
                         <div className="progress" data-progress="80"></div>
@@ -63,5 +83,5 @@ export default function AboutHomeOne() {
         </div>
       </section>
     </>
-  )
+  );
 }

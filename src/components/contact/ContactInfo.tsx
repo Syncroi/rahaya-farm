@@ -51,8 +51,7 @@ export default function ContactInfo() {
                 <div className="co-box">
                   <h5 className="black">Send us email</h5>
                   <a href="#" className="pra">
-                    demo0023yourmailhotmail.com <br />
-                    demo23yourmail.com
+                    MohamedKh@Syncroi.com
                   </a>
                 </div>
               </div>
