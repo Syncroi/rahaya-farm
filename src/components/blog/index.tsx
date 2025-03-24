@@ -10,7 +10,7 @@ export default function Blog() {
   return (
     <>
       <HeaderThree />
-      <Breadcrumnd title="Blog" subtitle="Blog" />
+      <Breadcrumnd title="Special Packs" subtitle="Special Packs" />
       <BlogArea />
       <SubscribeHomeThree />
       <FooterTwo />

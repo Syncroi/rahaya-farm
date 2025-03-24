@@ -56,16 +56,6 @@ const menu_data: DataType[] = [
       { link: "/gallery-details", title: "Gallery Details" },
     ],
   },
-  // {
-  // 	id: 5,
-  // 	title: "Blog",
-  // 	link: "#",
-  // 	has_dropdown: true,
-  // 	sub_menus: [
-  // 		{ link: "/blog", title: "Blog" },
-  // 		{ link: "/blog-details", title: "Blog Details" },
-  // 	],
-  // },
   {
     id: 6,
     title: "Products",
@@ -79,7 +69,16 @@ const menu_data: DataType[] = [
       { link: "/contact", title: "Contact" },
     ],
   },
-
+  {
+	id: 5,
+	title: "Special Packs",
+	link: "/blog",
+	has_dropdown: false,
+	sub_menus: [
+		{ link: "/blog", title: "Blog" },
+		{ link: "/blog-details", title: "Blog Details" },
+	],
+},
   {
     id: 7,
     title: "Contact",

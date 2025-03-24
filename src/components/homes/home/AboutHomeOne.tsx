@@ -9,11 +9,15 @@ export default function AboutHomeOne() {
           <div className="row g-4 align-items-center justify-content-center">
             <div className="col-lg-6 col-md-6 col-sm-8 order-md-0 order-1">
               <div className="about-thumv01 position-relative">
-                <img
-                  src="assets/img/about/choose-man.png"
-                  alt="img"
-                  className="mimg"
-                />
+              <div className="w-32 h-32 rounded-full border-4 border-white overflow-hidden">
+  <img
+    src="assets/img/about/brokly.jpg"
+    alt="img"
+    className="w-full h-full object-cover"
+  />
+</div>
+
+
                 <img
                   src="assets/img/about/f-food.png"
                   alt="img"

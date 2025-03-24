@@ -36,7 +36,7 @@ export default function HeroHomeTwo() {
                           Need help?
                         </span>
                         <span className="call">
-                          (808) 555-0111
+                          +201114288800
                         </span>
                       </span>
                     </a>
@@ -47,7 +47,12 @@ export default function HeroHomeTwo() {
           </div>
         </div>
 
-        <img src="assets/img/banner/hero-v2.png" alt="img" className="hero-v02-thumb" />
+        <img
+  src="assets/img/banner/banner.jpg"
+  alt="img"
+  className="hero-v02-thumb w-full h-auto"
+  style={{ clipPath: 'polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%)' }}
+/>
 
       </section>
     </>
