@@ -40,7 +40,11 @@ export default function TeamHomeTwo() {
                   <div className="social-sahre">
                     <div className="share-icon">
                       <div className="social-wrapper social-empact">
-                        <a href="#" className="white-clr">
+                        <a
+                          href="https://www.facebook.com/people/Rahaya-farm/61568240136934/"
+                          target="_blank"
+                          className="white-clr"
+                        >
                           <i className="white-clr fab fa-facebook-f"></i>
                         </a>
                         <a href="#" className="white-clr">
@@ -98,7 +102,11 @@ export default function TeamHomeTwo() {
                   <div className="social-sahre">
                     <div className="share-icon">
                       <div className="social-wrapper social-empact">
-                        <a href="#" className="white-clr">
+                        <a
+                          href="https://www.facebook.com/people/Rahaya-farm/61568240136934/"
+                          target="_blank"
+                          className="white-clr"
+                        >
                           <i className="white-clr fab fa-facebook-f"></i>
                         </a>
                         <a href="#" className="white-clr">
@@ -157,7 +165,11 @@ export default function TeamHomeTwo() {
                   <div className="social-sahre">
                     <div className="share-icon">
                       <div className="social-wrapper social-empact">
-                        <a href="#" className="white-clr">
+                        <a
+                          href="https://www.facebook.com/people/Rahaya-farm/61568240136934/"
+                          target="_blank"
+                          className="white-clr"
+                        >
                           <i className="white-clr fab fa-facebook-f"></i>
                         </a>
                         <a href="#" className="white-clr">

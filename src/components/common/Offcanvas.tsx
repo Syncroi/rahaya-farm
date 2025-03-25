@@ -84,7 +84,10 @@ export default function Offcanvas({ open, setOpen }: Props) {
                 </div>
                 <h4>Social Media</h4>
                 <div className="social-icon d-flex align-items-center">
-                  <a href="#">
+                  <a
+                    href="https://www.facebook.com/people/Rahaya-farm/61568240136934/"
+                    target="_blank"
+                  >
                     <i className="fab fa-facebook-f"></i>
                   </a>
                   <a href="#">

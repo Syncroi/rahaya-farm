@@ -69,7 +69,11 @@ export default function HeaderThree() {
                       />
                     </svg>
                   </a>
-                  <a href="#" className="white">
+                  <a
+                    href="https://www.facebook.com/people/Rahaya-farm/61568240136934/"
+                    target="_blank"
+                    className="white"
+                  >
                     <i className="white fab fa-facebook-f"></i>
                   </a>
                 </div>
