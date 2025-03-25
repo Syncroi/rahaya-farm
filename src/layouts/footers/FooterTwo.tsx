@@ -34,7 +34,6 @@ export default function FooterTwo() {
                       <a
                         target="_blank"
                         href="https://www.facebook.com/people/Rahaya-farm/61568240136934/"
-                        target="_blank"
                         className="white-clr"
                       >
                         <i className="white-clr fab fa-facebook-f"></i>
