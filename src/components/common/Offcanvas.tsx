@@ -17,7 +17,7 @@ export default function Offcanvas({ open, setOpen }: Props) {
               <div className="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                 <div className="offcanvas__logo">
                   <Link href="/">
-                    <img src="assets/img/logo/favcion.png" alt="logo-img" />
+                    <img src="/assets/img/logo/favcion.png" alt="logo-img" />
                   </Link>
                 </div>
                 <div className="offcanvas__close">

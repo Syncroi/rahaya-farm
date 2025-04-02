@@ -11,7 +11,7 @@ export default function GalleryArea() {
           <div className="row g-xl-4 g-3 justify-content-center">
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="gallery-static-item">
-                <img src="assets/img/gallery/mg1.jpg" alt="img" className="w-100 mimg" />
+                <img src="/assets/img/gallery/mg1.jpg" alt="img" className="w-100 mimg" />
                 <div className="content">
                   <span>
                     Business Intelligence
@@ -22,7 +22,7 @@ export default function GalleryArea() {
             </div>
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="gallery-static-item">
-                <img src="assets/img/gallery/mg2.jpg" alt="img" className="w-100 mimg" />
+                <img src="/assets/img/gallery/mg2.jpg" alt="img" className="w-100 mimg" />
                 <div className="content">
                   <span>
                     Business Intelligence
@@ -33,7 +33,7 @@ export default function GalleryArea() {
             </div>
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="gallery-static-item">
-                <img src="assets/img/gallery/mg3.jpg" alt="img" className="w-100 mimg" />
+                <img src="/assets/img/gallery/mg3.jpg" alt="img" className="w-100 mimg" />
                 <div className="content">
                   <span>
                     Business Intelligence
@@ -44,7 +44,7 @@ export default function GalleryArea() {
             </div>
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="gallery-static-item">
-                <img src="assets/img/gallery/mg4.jpg" alt="img" className="w-100 mimg" />
+                <img src="/assets/img/gallery/mg4.jpg" alt="img" className="w-100 mimg" />
                 <div className="content">
                   <span>
                     Business Intelligence
@@ -55,7 +55,7 @@ export default function GalleryArea() {
             </div>
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="gallery-static-item">
-                <img src="assets/img/gallery/mg5.jpg" alt="img" className="w-100 mimg" />
+                <img src="/assets/img/gallery/mg5.jpg" alt="img" className="w-100 mimg" />
                 <div className="content">
                   <span>
                     Business Intelligence
@@ -66,7 +66,7 @@ export default function GalleryArea() {
             </div>
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="gallery-static-item">
-                <img src="assets/img/gallery/mg6.jpg" alt="img" className="w-100 mimg" />
+                <img src="/assets/img/gallery/mg6.jpg" alt="img" className="w-100 mimg" />
                 <div className="content">
                   <span>
                     Business Intelligence

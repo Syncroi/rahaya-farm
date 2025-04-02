@@ -23,7 +23,7 @@ export default function GalleryHomeThree() {
           <div className="d-flex flex-md-nowrap flex-wrap gap-lg-4 gap-3">
             <div className="gallery-itemsv02 gallery-itemshover wow fadeInUp" data-wow-delay=".3s">
               <div className="thumb w-100">
-                <img src="assets/img/gallery/galleryv2-1.jpg" alt="img" className="w-100" />
+                <img src="/assets/img/gallery/galleryv2-1.jpg" alt="img" className="w-100" />
               </div>
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
@@ -37,7 +37,7 @@ export default function GalleryHomeThree() {
             </div>
             <div className="gallery-itemsv02 white-bg wow fadeInUp" data-wow-delay=".5s">
               <div className="thumb w-100">
-                <img src="assets/img/gallery/galleryv2-2.jpg" alt="img" className="w-100" />
+                <img src="/assets/img/gallery/galleryv2-2.jpg" alt="img" className="w-100" />
               </div>
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
@@ -51,7 +51,7 @@ export default function GalleryHomeThree() {
             </div>
             <div className="gallery-itemsv02 gallery-itemshover  wow fadeInUp" data-wow-delay=".7s">
               <div className="thumb w-100">
-                <img src="assets/img/gallery/galleryv2-3.jpg" alt="img" className="w-100" />
+                <img src="/assets/img/gallery/galleryv2-3.jpg" alt="img" className="w-100" />
               </div>
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>

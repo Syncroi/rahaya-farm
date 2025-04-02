@@ -20,7 +20,7 @@ export default function BlogHomeOne() {
             <div className="col-lg-4 col-md-6 col-sm-11 wow fadeInUp" data-wow-delay=".3s">
               <div className="blog-itemsv1">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blog1.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blog1.jpg" alt="img" className="w-100" />
                   <div className="dates">22 jan</div>
                 </div>
                 <div className="content">
@@ -37,7 +37,7 @@ export default function BlogHomeOne() {
             <div className="col-lg-4 col-md-6 col-sm-11 wow fadeInUp" data-wow-delay=".5s">
               <div className="blog-itemsv1">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blog2.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blog2.jpg" alt="img" className="w-100" />
                   <div className="dates">
                     22 jan
                   </div>
@@ -56,7 +56,7 @@ export default function BlogHomeOne() {
             <div className="col-lg-4 col-md-6 col-sm-11 wow fadeInUp" data-wow-delay=".7s">
               <div className="blog-itemsv1">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blog3.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blog3.jpg" alt="img" className="w-100" />
                   <div className="dates">22 jan</div>
                 </div>
                 <div className="content">
@@ -73,8 +73,8 @@ export default function BlogHomeOne() {
           </div>
         </div>
 
-        <img src="assets/img/element/carrort-elemet-line.png" alt="img" className="carrot-left" />
-        <img src="assets/img/element/carrot-element-cricle.png" alt="img" className="carrot-right d-md-block d-none" />
+        <img src="/assets/img/element/carrort-elemet-line.png" alt="img" className="carrot-left" />
+        <img src="/assets/img/element/carrot-element-cricle.png" alt="img" className="carrot-right d-md-block d-none" />
       </section>
     </>
   )

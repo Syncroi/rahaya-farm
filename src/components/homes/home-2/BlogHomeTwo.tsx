@@ -25,7 +25,7 @@ export default function BlogHomeTwo() {
             <div className="col-xl-6 col-lg-5 col-md-10 col-sm-11 wow fadeInUp" data-wow-delay=".3s">
               <div className="blog-itemsv1 blog-itemsv2">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blogv2-1.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blogv2-1.jpg" alt="img" className="w-100" />
                 </div>
                 <ul className="comment-inner">
                   <li>
@@ -46,7 +46,7 @@ export default function BlogHomeTwo() {
             <div className="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
               <div className="blog-itemsv1 blog-itemsv2">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blogv2-2.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blogv2-2.jpg" alt="img" className="w-100" />
                 </div>
                 <ul className="comment-inner">
                   <li>
@@ -66,7 +66,7 @@ export default function BlogHomeTwo() {
             <div className="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".7s">
               <div className="blog-itemsv1 blog-itemsv2">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blogv2-13.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blogv2-13.jpg" alt="img" className="w-100" />
                 </div>
                 <ul className="comment-inner">
                   <li>

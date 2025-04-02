@@ -28,7 +28,7 @@ export default function TeamHomeTwo() {
             >
               <div className="team-itemsv01">
                 <img
-                  src="assets/img/testimonial/team1.png"
+                  src="/assets/img/testimonial/team1.png"
                   alt="img"
                   className="mimg"
                 />
@@ -153,7 +153,7 @@ export default function TeamHomeTwo() {
             >
               <div className="team-itemsv01">
                 <img
-                  src="assets/img/testimonial/team3.png"
+                  src="/assets/img/testimonial/team3.png"
                   alt="img"
                   className="mimg"
                 />

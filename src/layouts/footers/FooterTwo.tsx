@@ -143,12 +143,12 @@ export default function FooterTwo() {
                     <h3 className="white-clr">Newslatter</h3>
                   </div>
                   <div className="latest-thumwrap">
-                    <img src="assets/img/footer/ln1.png" alt="img" />
-                    <img src="assets/img/footer/ln2.png" alt="img" />
-                    <img src="assets/img/footer/ln3.png" alt="img" />
-                    <img src="assets/img/footer/ln4.png" alt="img" />
-                    <img src="assets/img/footer/ln5.png" alt="img" />
-                    <img src="assets/img/footer/ln6.png" alt="img" />
+                    <img src="/assets/img/footer/ln1.png" alt="img" />
+                    <img src="/assets/img/footer/ln2.png" alt="img" />
+                    <img src="/assets/img/footer/ln3.png" alt="img" />
+                    <img src="/assets/img/footer/ln4.png" alt="img" />
+                    <img src="/assets/img/footer/ln5.png" alt="img" />
+                    <img src="/assets/img/footer/ln6.png" alt="img" />
                   </div>
                 </div>
               </div>

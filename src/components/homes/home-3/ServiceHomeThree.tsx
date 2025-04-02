@@ -24,33 +24,33 @@ export default function ServiceHomeThree() {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="service-itemsv02 service-style03">
                 <div className="thumb w-100">
-                  <img src="assets/img/service/servicev3-1.jpg" alt="img" className="w-100 mimg" />
+                  <img src="/assets/img/service/servicev3-1.jpg" alt="img" className="w-100 mimg" />
                 </div>
                 <div className="content">
                   <Link href="/service-details" className="title">Green Grow Solutions</Link>
-                  <img src="assets/img/icon/water-hose.svg" alt="icon" />
+                  <img src="/assets/img/icon/water-hose.svg" alt="icon" />
                 </div>
               </div>
             </div>
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="service-itemsv02 service-style03">
                 <div className="thumb w-100">
-                  <img src="assets/img/service/servicev3-2.jpg" alt="img" className="w-100 mimg" />
+                  <img src="/assets/img/service/servicev3-2.jpg" alt="img" className="w-100 mimg" />
                 </div>
                 <div className="content">
                   <Link href="/service-details" className="title">Harvest Tech to Farm Service</Link>
-                  <img src="assets/img/icon/ser-flower.svg" alt="icon" />
+                  <img src="/assets/img/icon/ser-flower.svg" alt="icon" />
                 </div>
               </div>
             </div>
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="service-itemsv02 service-style03">
                 <div className="thumb w-100">
-                  <img src="assets/img/service/servicev3-3.jpg" alt="img" className="w-100 mimg" />
+                  <img src="/assets/img/service/servicev3-3.jpg" alt="img" className="w-100 mimg" />
                 </div>
                 <div className="content">
                   <Link href="/service-details" className="title">AgriPro is the Consulting</Link>
-                  <img src="assets/img/icon/map-plant.svg" alt="icon" />
+                  <img src="/assets/img/icon/map-plant.svg" alt="icon" />
                 </div>
               </div>
             </div>

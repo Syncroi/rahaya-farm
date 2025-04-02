@@ -46,7 +46,7 @@ export default function ContactHomeTwo() {
                 className="taklking-cotnact-thumb w-100 wow fadeInRight"
                 data-wow-delay=".4s"
               >
-                <img src="sherifa.png" alt="img" className="w-100" />
+                <img src="/assets/img/Sherifa.png" alt="img" className="w-100" />
               </div>
             </div>
           </div>

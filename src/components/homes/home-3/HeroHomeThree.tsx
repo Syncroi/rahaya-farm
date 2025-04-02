@@ -19,7 +19,7 @@ export default function HeroHomeThree() {
               <div className="col-lg-7 col-md-9">
                 <div className="hero-contentv03">
                   <div className="sun-star wow fadeInDown" data-wow-delay=".3s">
-                    <img src="assets/img/icon/icon-sunstar.svg" alt="img" />
+                    <img src="/assets/img/icon/icon-sunstar.svg" alt="img" />
                     Best farming
                   </div>
                   <h1 className="wow fadeInUp" data-wow-delay="0.4s">
@@ -52,7 +52,7 @@ export default function HeroHomeThree() {
             </div>
           </div>
         </div>
-        <img src="assets/img/banner/hero-3.jpg" alt="img" className="hero-threthumb" />
+        <img src="/assets/img/banner/hero-3.jpg" alt="img" className="hero-threthumb" />
       </section>
 
       {/* video modal start */}

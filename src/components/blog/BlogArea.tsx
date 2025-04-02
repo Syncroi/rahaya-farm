@@ -12,7 +12,7 @@ export default function BlogArea() {
               {/* Universities & Schools Pack */}
               <div className="blog-details-leftitem wow fadeInUp" data-wow-delay=".2s">
                 <div className="thumb position-relative">
-                  <img src="assets/img/blog/school.jpg" alt="Universities & Schools Pack" />
+                  <img src="/assets/img/blog/school.jpg" alt="Universities & Schools Pack" />
                   <span className="date-badge">New</span>
                 </div>
                 <div className="content">
@@ -38,7 +38,7 @@ export default function BlogArea() {
               {/* Corporate Pack */}
               <div className="blog-details-leftitem wow fadeInUp" data-wow-delay=".3s">
                 <div className="thumb position-relative">
-                  <img src="assets/img/blog/corp.jpg" alt="Corporate Pack" />
+                  <img src="/assets/img/blog/corp.jpg" alt="Corporate Pack" />
                   <span className="date-badge">New</span>
                 </div>
                 <div className="content">
@@ -64,7 +64,7 @@ export default function BlogArea() {
               {/* Events Pack */}
               <div className="blog-details-leftitem wow fadeInUp" data-wow-delay=".4s">
                 <div className="thumb position-relative">
-                  <img src="assets/img/blog/event.jpg" alt="Events Pack" />
+                  <img src="/assets/img/blog/event.jpg" alt="Events Pack" />
                   <span className="date-badge">New</span>
                 </div>
                 <div className="content">

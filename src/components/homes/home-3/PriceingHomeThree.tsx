@@ -122,7 +122,7 @@ export default function PriceingHomeThree() {
           </div>
         </div>
 
-        <img src="assets/img/element/pricing-animal.png" alt="img" className="pricing-element" />
+        <img src="/assets/img/element/pricing-animal.png" alt="img" className="pricing-element" />
       </section>
     </>
   )

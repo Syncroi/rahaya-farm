@@ -17,10 +17,10 @@ export default function AboutHomeThree() {
             <div className="row g-4 align-items-center justify-content-center">
               <div className="col-lg-6 col-md-6 col-sm-8 order-md-0 order-1">
                 <div className="about-thumv03 position-relative pe-xl-4 wow fadeInDown" data-wow-delay=".3s">
-                  <img src="assets/img/about/aboutv3.png" alt="img" className="mimg" />
+                  <img src="/assets/img/about/aboutv3.png" alt="img" className="mimg" />
                   <div className="avarage-counting">
                     <div className="avarag">
-                      <img src="assets/img/icon/agriculture.svg" alt="img" />
+                      <img src="/assets/img/icon/agriculture.svg" alt="img" />
                     </div>
                     <div className="cont">
                       <h5>

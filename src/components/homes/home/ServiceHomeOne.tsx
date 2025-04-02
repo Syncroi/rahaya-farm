@@ -29,7 +29,7 @@ export default function ServiceHomeOne({style_2}: Props) {
           <div className="row g-xl-4 g-3 justify-content-center">
             <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="service-itemsv1">
-                <img src="assets/img/icon/count1.svg" alt="svg" className="icons" />
+                <img src="/assets/img/icon/count1.svg" alt="svg" className="icons" />
                 <div className="content">
                   <Link href="/service-details" className="title">Green Grow</Link>
                   <p>Agriculture and farming are essential industries</p>
@@ -39,7 +39,7 @@ export default function ServiceHomeOne({style_2}: Props) {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
               <div className="service-itemsv1">
-                <img src="assets/img/icon/wheat-sesh.svg" alt="svg" className="icons" />
+                <img src="/assets/img/icon/wheat-sesh.svg" alt="svg" className="icons" />
                 <div className="content">
                   <Link href="/service-details" className="title">Agri Consulting</Link>
                   <p>Agriculture and farming are essential industries</p>
@@ -49,7 +49,7 @@ export default function ServiceHomeOne({style_2}: Props) {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".7s">
               <div className="service-itemsv1">
-                <img src="assets/img/icon/smart-flower.svg" alt="svg" className="icons" />
+                <img src="/assets/img/icon/smart-flower.svg" alt="svg" className="icons" />
                 <div className="content">
                   <Link href="/service-details" className="title">Farm Smart</Link>
                   <p>Agriculture and farming are essential industries</p>

@@ -37,13 +37,13 @@ export default function FeatureHomeThree() {
             </div>
             <div className="col-xxl-7 col-xl-7 col-lg-6 col-md-6 col-sm-8 ps-lg-5">
               <div className="feature-thumv02 position-relative w-100 wow fadeInDown" data-wow-delay=".3s">
-                <img src="assets/img/about/feature-thumb2.png" alt="img" className="w-100" />
+                <img src="/assets/img/about/feature-thumb2.png" alt="img" className="w-100" />
               </div>
             </div>
           </div>
         </div>
 
-        <img src="assets/img/element/feature-green2.png" alt="img" className="feature-element2" />
+        <img src="/assets/img/element/feature-green2.png" alt="img" className="feature-element2" />
       </section>
     </>
   )

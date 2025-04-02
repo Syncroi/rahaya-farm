@@ -58,7 +58,7 @@ export default function BlogDetailsArea() {
                     data-wow-delay=".4s"
                   >
                     <img
-                      src="assets/img/blog/bd1.jpg"
+                      src="/assets/img/blog/bd1.jpg"
                       alt="img"
                       className="w-100"
                     />
@@ -79,7 +79,7 @@ export default function BlogDetailsArea() {
                     className="quote-box mb-40 wow fadeInUp"
                     data-wow-delay=".7s"
                   >
-                    <img src="assets/img/icon/quote-leftp2.svg" alt="img" />
+                    <img src="/assets/img/icon/quote-leftp2.svg" alt="img" />
                     <p>
                       It is a long established fact that a reader will be
                       distracted by the readable content of a page a when
@@ -105,14 +105,14 @@ export default function BlogDetailsArea() {
                   >
                     <div className="thumb w-100">
                       <img
-                        src="assets/img/blog/bd-single1.jpg"
+                        src="/assets/img/blog/bd-single1.jpg"
                         alt="img"
                         className="w-100"
                       />
                     </div>
                     <div className="thumb w-100">
                       <img
-                        src="assets/img/blog/bd-single2.jpg"
+                        src="/assets/img/blog/bd-single2.jpg"
                         alt="img"
                         className="w-100"
                       />
@@ -206,7 +206,7 @@ export default function BlogDetailsArea() {
                   data-wow-delay=".6s"
                 >
                   <img
-                    src="assets/img/blog/reply-kishan.png"
+                    src="/assets/img/blog/reply-kishan.png"
                     alt="img"
                     className="krishana"
                   />
@@ -277,7 +277,7 @@ export default function BlogDetailsArea() {
                 <div className="maybe-liking wow fadeInUp" data-wow-delay=".8s">
                   <h3 className="mb-40">You May Also Like</h3>
                   <div className="thumb mb-30">
-                    <img src="assets/img/blog/bd2.jpg" alt="img" />
+                    <img src="/assets/img/blog/bd2.jpg" alt="img" />
                   </div>
                   <h3 className="p900-clr mb-20">
                     Transform your outdoor space into a botanical
@@ -377,7 +377,7 @@ export default function BlogDetailsArea() {
                     <div className="recent-items">
                       <div className="recent-thumb">
                         <img
-                          src="assets/img/blog/details-small1.png"
+                          src="/assets/img/blog/details-small1.png"
                           alt="img"
                         />
                       </div>
@@ -394,7 +394,7 @@ export default function BlogDetailsArea() {
                     <div className="recent-items">
                       <div className="recent-thumb">
                         <img
-                          src="assets/img/blog/details-small2.png"
+                          src="/assets/img/blog/details-small2.png"
                           alt="img"
                         />
                       </div>
@@ -411,7 +411,7 @@ export default function BlogDetailsArea() {
                     <div className="recent-items">
                       <div className="recent-thumb">
                         <img
-                          src="assets/img/blog/details-small13.png"
+                          src="/assets/img/blog/details-small13.png"
                           alt="img"
                         />
                       </div>

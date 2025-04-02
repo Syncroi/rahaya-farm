@@ -24,7 +24,7 @@ export default function BlogHomeThree() {
             <div className="col-lg-4 col-md-6 col-sm-11 wow fadeInUp" data-wow-delay=".3s">
               <div className="blog-itemsv1">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blog1.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blog1.jpg" alt="img" className="w-100" />
                   <div className="dates">
                     22 jan
                   </div>
@@ -50,7 +50,7 @@ export default function BlogHomeThree() {
             <div className="col-lg-4 col-md-6 col-sm-11 wow fadeInUp" data-wow-delay=".5s">
               <div className="blog-itemsv1">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blog2.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blog2.jpg" alt="img" className="w-100" />
                   <div className="dates">
                     22 jan
                   </div>
@@ -76,7 +76,7 @@ export default function BlogHomeThree() {
             <div className="col-lg-4 col-md-6 col-sm-11 wow fadeInUp" data-wow-delay=".7s">
               <div className="blog-itemsv1">
                 <div className="thumb w-100">
-                  <img src="assets/img/blog/blog3.jpg" alt="img" className="w-100" />
+                  <img src="/assets/img/blog/blog3.jpg" alt="img" className="w-100" />
                   <div className="dates">
                     22 jan
                   </div>

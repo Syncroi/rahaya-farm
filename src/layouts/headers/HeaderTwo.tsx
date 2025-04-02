@@ -6,11 +6,14 @@ import NavMenu from "./menu/NavMenu";
 import Offcanvas from "@/components/common/Offcanvas";
 import SearchBar from "@/components/common/SearchBar";
 import Image from "next/image";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
+import { useTranslations } from 'next-intl';
 
 export default function HeaderTwo() {
   const { sticky } = useSticky();
   const [open, setOpen] = useState(false);
   const [serchOpen, setSearchOpen] = useState(false);
+  const t = useTranslations();
 
   return (
     <>
@@ -19,7 +22,7 @@ export default function HeaderTwo() {
           <div className="header-top-wrapper">
             <a href="" className="location-area flex gap-2">
               <i className="fa-solid fa-location-dot"></i>
-              <span>Cairo Alexandria desert road km 80, Cairo, Egypt</span>
+              <span>{t('cairo')} Alexandria desert road km 80, Cairo, Egypt</span>
             </a>
             <ul className="contact-list">
               <li>
@@ -66,6 +69,8 @@ export default function HeaderTwo() {
                     </nav>
                   </div>
                 </div>
+                <LanguageSwitcher />
+
                 <div className="search-adjust">
                   <a
                     href="#"

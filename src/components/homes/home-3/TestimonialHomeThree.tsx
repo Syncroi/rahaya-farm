@@ -44,7 +44,7 @@ export default function TestimonialHomeThree() {
                     <div className="testimonail-common-items stylev03">
                       <div className="d-lg-flex d-grid justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -75,7 +75,7 @@ export default function TestimonialHomeThree() {
                     <div className="testimonail-common-items stylev03">
                       <div className="d-lg-flex d-grid justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -106,7 +106,7 @@ export default function TestimonialHomeThree() {
                     <div className="testimonail-common-items stylev03">
                       <div className="d-lg-flex d-grid justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -137,7 +137,7 @@ export default function TestimonialHomeThree() {
                     <div className="testimonail-common-items stylev03">
                       <div className="d-lg-flex d-grid justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -170,9 +170,9 @@ export default function TestimonialHomeThree() {
             </div>
             <div className="col-lg-6 col-md-6">
               <div className="testimonial-thumbv3 w-100 wow fadeInDown" data-wow-delay=".4s">
-                <img src="assets/img/testimonial/testimonial-thumbv3.png" alt="img" className="w-100 mimg" />
+                <img src="/assets/img/testimonial/testimonial-thumbv3.png" alt="img" className="w-100 mimg" />
                 <div className="testimonial-count">
-                  <img src="assets/img/icon/apple-count.png" alt="img" />
+                  <img src="/assets/img/icon/apple-count.png" alt="img" />
                   <div className="cont">
                     <h3>
                       <span className="count">15</span>+ Years

@@ -12,7 +12,7 @@ export default function SubscribeHomeThree() {
               <div className="row g-4 align-items-end justify-content-between">
                 <div className="col-lg-6 col-md-6 mb-xl-5 pb-xl-4">
                   <div className="get-element">
-                    <img src="assets/img/element/get-element.png" alt="img" className="d-md-block d-none" />
+                    <img src="/assets/img/element/get-element.png" alt="img" className="d-md-block d-none" />
                   </div>
                   <div className="subs-contentv3">
                     <h2>
@@ -57,7 +57,7 @@ export default function SubscribeHomeThree() {
                       </div>
                     </form>
 
-                    <img src="assets/img/element/sun-element.png" alt="img"
+                    <img src="/assets/img/element/sun-element.png" alt="img"
                       className="sun-element d-xl-block d-none" />
                   </div>
                 </div>

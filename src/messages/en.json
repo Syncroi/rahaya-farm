@@ -1,0 +1,17 @@
+{
+  "welcome": "Welcome!",
+  "home": "Home",
+  "cairo":"Cairo",
+  "contact": {
+    "addressTitle": "Address",
+    "addressLine1": "Cairo Alexandria desert road",
+    "addressLine2": "km 80, Cairo, Egypt",
+
+    "phoneTitle": "Talk With Us",
+    "phoneLine1": "Phone number: +20 1114288800",
+    "phoneLine2": "WhatsApp:",
+
+    "emailTitle": "Send us email",
+    "email": "MohamedKh@Syncroi.com"
+  }
+}

@@ -67,8 +67,8 @@ export default function CounterHomeOne({ style_2 }: PropsType) {
             {
               style_2 &&
               <>
-                <img src="assets/img/element/count-flower-left.png" alt="img" className="cout-flower-left" />
-                <img src="assets/img/element/count-flower-right.png" alt="img" className="cout-flower-right" />
+                <img src="/assets/img/element/count-flower-left.png" alt="img" className="cout-flower-left" />
+                <img src="/assets/img/element/count-flower-right.png" alt="img" className="cout-flower-right" />
               </>
             }
           </div>

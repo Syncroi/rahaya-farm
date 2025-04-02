@@ -63,7 +63,7 @@ export default function ProjectHomeTwo() {
 
           <SwiperSlide className="swiper-slide">
             <div className="recent-project-item position-relative overflow-hidden">
-              <img src="assets/img/blog/rp1.jpg" alt="img" />
+              <img src="/assets/img/blog/rp1.jpg" alt="img" />
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
               </Link>
@@ -71,7 +71,7 @@ export default function ProjectHomeTwo() {
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
             <div className="recent-project-item position-relative overflow-hidden">
-              <img src="assets/img/blog/rp2.jpg" alt="img" />
+              <img src="/assets/img/blog/rp2.jpg" alt="img" />
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
               </Link>
@@ -79,7 +79,7 @@ export default function ProjectHomeTwo() {
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
             <div className="recent-project-item position-relative overflow-hidden">
-              <img src="assets/img/blog/rp3.jpg" alt="img" />
+              <img src="/assets/img/blog/rp3.jpg" alt="img" />
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
               </Link>
@@ -87,7 +87,7 @@ export default function ProjectHomeTwo() {
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
             <div className="recent-project-item position-relative overflow-hidden">
-              <img src="assets/img/blog/rp4.jpg" alt="img" />
+              <img src="/assets/img/blog/rp4.jpg" alt="img" />
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
               </Link>
@@ -97,7 +97,7 @@ export default function ProjectHomeTwo() {
           
           <SwiperSlide className="swiper-slide">
             <div className="recent-project-item position-relative overflow-hidden">
-              <img src="assets/img/blog/rp1.jpg" alt="img" />
+              <img src="/assets/img/blog/rp1.jpg" alt="img" />
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
               </Link>
@@ -105,7 +105,7 @@ export default function ProjectHomeTwo() {
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
             <div className="recent-project-item position-relative overflow-hidden">
-              <img src="assets/img/blog/rp2.jpg" alt="img" />
+              <img src="/assets/img/blog/rp2.jpg" alt="img" />
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
               </Link>
@@ -113,7 +113,7 @@ export default function ProjectHomeTwo() {
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
             <div className="recent-project-item position-relative overflow-hidden">
-              <img src="assets/img/blog/rp3.jpg" alt="img" />
+              <img src="/assets/img/blog/rp3.jpg" alt="img" />
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
               </Link>
@@ -121,7 +121,7 @@ export default function ProjectHomeTwo() {
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
             <div className="recent-project-item position-relative overflow-hidden">
-              <img src="assets/img/blog/rp4.jpg" alt="img" />
+              <img src="/assets/img/blog/rp4.jpg" alt="img" />
               <Link href="/gallery-details" className="arrow">
                 <i className="fa-solid fa-angle-right"></i>
               </Link>

@@ -61,7 +61,7 @@ export default function ProductDetailsArea() {
                         <button
                           className="accordion-btn d-flex align-items-center d-flex position-relative w-100"
                           type="button">
-                          <img src="assets/img/icon/mc1.svg" alt="icon" />
+                          <img src="/assets/img/icon/mc1.svg" alt="icon" />
                           Meat
                         </button>
                       </h5>
@@ -95,7 +95,7 @@ export default function ProductDetailsArea() {
                         <button
                           className="accordion-btn d-flex align-items-center d-flex position-relative w-100"
                           type="button">
-                          <img src="assets/img/icon/mc2.svg" alt="icon" />
+                          <img src="/assets/img/icon/mc2.svg" alt="icon" />
                           Sugar Cane
                         </button>
                       </h5>
@@ -129,7 +129,7 @@ export default function ProductDetailsArea() {
                         <button
                           className="accordion-btn d-flex align-items-center d-flex position-relative w-100"
                           type="button">
-                          <img src="assets/img/icon/mc3.svg" alt="icon" />
+                          <img src="/assets/img/icon/mc3.svg" alt="icon" />
                           Potatoes
                         </button>
                       </h5>
@@ -163,7 +163,7 @@ export default function ProductDetailsArea() {
                         <button
                           className="accordion-btn d-flex align-items-center d-flex position-relative w-100"
                           type="button">
-                          <img src="assets/img/icon/mc4.svg" alt="icon" />
+                          <img src="/assets/img/icon/mc4.svg" alt="icon" />
                           Rice
                         </button>
                       </h5>
@@ -197,7 +197,7 @@ export default function ProductDetailsArea() {
                         <button
                           className="accordion-btn d-flex align-items-center d-flex position-relative w-100"
                           type="button">
-                          <img src="assets/img/icon/mc5.svg" alt="icon" />
+                          <img src="/assets/img/icon/mc5.svg" alt="icon" />
                           Tractor
                         </button>
                       </h5>
@@ -231,7 +231,7 @@ export default function ProductDetailsArea() {
                         <button
                           className="accordion-btn d-flex align-items-center d-flex position-relative w-100"
                           type="button">
-                          <img src="assets/img/icon/mc6.svg" alt="icon" />
+                          <img src="/assets/img/icon/mc6.svg" alt="icon" />
                           Mower
                         </button>
                       </h5>
@@ -265,7 +265,7 @@ export default function ProductDetailsArea() {
                         <button
                           className="accordion-btn d-flex align-items-center d-flex position-relative w-100"
                           type="button">
-                          <img src="assets/img/icon/mc7.svg" alt="icon" />
+                          <img src="/assets/img/icon/mc7.svg" alt="icon" />
                           Plow
                         </button>
                       </h5>
@@ -299,7 +299,7 @@ export default function ProductDetailsArea() {
                         <button
                           className="accordion-btn d-flex align-items-center d-flex position-relative w-100"
                           type="button">
-                          <img src="assets/img/icon/mc8.svg" alt="icon" />
+                          <img src="/assets/img/icon/mc8.svg" alt="icon" />
                           Rake
                         </button>
                       </h5>
@@ -338,7 +338,7 @@ export default function ProductDetailsArea() {
                 <div className="recent-postwrap">
                   <div className="recent-items">
                     <div className="recent-thumb">
-                      <img src="assets/img/blog/details-small1.png" alt="img" />
+                      <img src="/assets/img/blog/details-small1.png" alt="img" />
                     </div>
                     <div className="recent-content">
                       <Link href="/product-details">
@@ -351,7 +351,7 @@ export default function ProductDetailsArea() {
                   </div>
                   <div className="recent-items">
                     <div className="recent-thumb">
-                      <img src="assets/img/blog/product-recente1.jpg" alt="img" />
+                      <img src="/assets/img/blog/product-recente1.jpg" alt="img" />
                     </div>
                     <div className="recent-content">
                       <Link href="/product-details">
@@ -364,7 +364,7 @@ export default function ProductDetailsArea() {
                   </div>
                   <div className="recent-items">
                     <div className="recent-thumb">
-                      <img src="assets/img/blog/product-recente2.jpg" alt="img" />
+                      <img src="/assets/img/blog/product-recente2.jpg" alt="img" />
                     </div>
                     <div className="recent-content">
                       <Link href="/product-details">
@@ -377,7 +377,7 @@ export default function ProductDetailsArea() {
                   </div>
                   <div className="recent-items">
                     <div className="recent-thumb">
-                      <img src="assets/img/blog/product-recente3.jpg" alt="img" />
+                      <img src="/assets/img/blog/product-recente3.jpg" alt="img" />
                     </div>
                     <div className="recent-content">
                       <Link href="/product-details">
@@ -409,27 +409,27 @@ export default function ProductDetailsArea() {
 
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-bigthumb">
-                          <img src="assets/img/service/product-small6.jpg" alt="img" />
+                          <img src="/assets/img/service/product-small6.jpg" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-bigthumb">
-                          <img src="assets/img/service/product-small6.jpg" alt="img" />
+                          <img src="/assets/img/service/product-small6.jpg" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-bigthumb">
-                          <img src="assets/img/service/product-small6.jpg" alt="img" />
+                          <img src="/assets/img/service/product-small6.jpg" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-bigthumb">
-                          <img src="assets/img/service/product-small6.jpg" alt="img" />
+                          <img src="/assets/img/service/product-small6.jpg" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-bigthumb">
-                          <img src="assets/img/service/product-small6.jpg" alt="img" />
+                          <img src="/assets/img/service/product-small6.jpg" alt="img" />
                         </div>
                       </SwiperSlide>
 
@@ -462,53 +462,53 @@ export default function ProductDetailsArea() {
 
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small1.png" alt="img" />
+                          <img src="/assets/img/service/product-small1.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small2.png" alt="img" />
+                          <img src="/assets/img/service/product-small2.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small3.png" alt="img" />
+                          <img src="/assets/img/service/product-small3.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small4.png" alt="img" />
+                          <img src="/assets/img/service/product-small4.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small5.png" alt="img" />
+                          <img src="/assets/img/service/product-small5.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       {/* repeat */}
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small1.png" alt="img" />
+                          <img src="/assets/img/service/product-small1.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small2.png" alt="img" />
+                          <img src="/assets/img/service/product-small2.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small3.png" alt="img" />
+                          <img src="/assets/img/service/product-small3.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small4.png" alt="img" />
+                          <img src="/assets/img/service/product-small4.png" alt="img" />
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className="swiper-slide">
                         <div className="shop-details-samll d-center">
-                          <img src="assets/img/service/product-small5.png" alt="img" />
+                          <img src="/assets/img/service/product-small5.png" alt="img" />
                         </div>
                       </SwiperSlide>
 

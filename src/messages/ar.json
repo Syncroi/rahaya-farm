@@ -1,0 +1,17 @@
+{
+  "welcome": "مرحبا!",
+  "home": "الرئيسية",
+   "cairo":"القاهرة",
+   "contact": {
+    "addressTitle": "العنوان",
+    "addressLine1": "طريق القاهرة الإسكندرية الصحراوي",
+    "addressLine2": "الكيلو 80، القاهرة، مصر",
+
+    "phoneTitle": "تواصل معنا",
+    "phoneLine1": "رقم الهاتف: +20 1114288800",
+    "phoneLine2": "واتساب:",
+
+    "emailTitle": "أرسل لنا بريدًا إلكترونيًا",
+    "email": "MohamedKh@Syncroi.com"
+  }
+}

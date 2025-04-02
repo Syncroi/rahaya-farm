@@ -37,7 +37,7 @@ export default function HeroHomeOne() {
             </div>
             <div className="col-lg-5 col-md-5 col-sm-8">
               <div className="hero-thumbv01 position-relative wow fadeInDown" data-wow-delay="0.5s">
-                <img src="assets/img/banner/hero1.png" alt="img" className="mimg" />
+                <img src="/assets/img/banner/hero1.png" alt="img" className="mimg" />
               </div>
             </div>
           </div>

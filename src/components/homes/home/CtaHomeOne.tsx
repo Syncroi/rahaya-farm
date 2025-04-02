@@ -26,7 +26,7 @@ export default function CtaHomeOne() {
                 <div className="col-sm-6 wow fadeInDown" data-wow-delay=".4s">
                   <div className="who-box">
                     <div className="icon d-center">
-                      <img src="assets/img/icon/hand-planp900.svg" alt="icon" />
+                      <img src="/assets/img/icon/hand-planp900.svg" alt="icon" />
                     </div>
                     <Link href="/about" className="title">Growing stron <br /> a feeding</Link>
                   </div>
@@ -34,7 +34,7 @@ export default function CtaHomeOne() {
                 <div className="col-sm-6 wow fadeInDown" data-wow-delay=".6s">
                   <div className="who-box">
                     <div className="icon d-center">
-                      <img src="assets/img/icon/wheath-p900.svg" alt="icon" />
+                      <img src="/assets/img/icon/wheath-p900.svg" alt="icon" />
                     </div>
                     <Link href="/about" className="title">Taking care of <br /> the Earth</Link>
                   </div>
@@ -83,7 +83,7 @@ export default function CtaHomeOne() {
           </div>
         </div>
 
-        <img src="assets/img/element/who-element.png" alt="img" className="who-element" />
+        <img src="/assets/img/element/who-element.png" alt="img" className="who-element" />
       </section>
     </>
   )

@@ -13,7 +13,7 @@ export default function FeatureVideo() {
       <div className="feature-video">
         <div className="container">
           <div className="feature-video-wrap w-100">
-            <img src="assets/img/about/feature-vid.jpg" alt="img" className="w-100" />
+            <img src="/assets/img/about/feature-vid.jpg" alt="img" className="w-100" />
             <a
               onClick={() => setIsVideoOpen(true)}
               style={{ cursor: "pointer" }}

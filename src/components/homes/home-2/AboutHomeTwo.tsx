@@ -10,7 +10,7 @@ export default function AboutHomeTwo() {
           <div className="row g-4 align-items-lg-center justify-content-center">
             <div className="col-lg-6 col-md-6 col-sm-8 order-md-0 order-1">
               <div className="about-thumv02 position-relative w-100 wow fadeInDown" data-wow-delay=".3s">
-                <img src="assets/img/about/choose-thumb2.png" alt="img" className="w-100" />
+                <img src="/assets/img/about/choose-thumb2.png" alt="img" className="w-100" />
               </div>
             </div>
             <div className="col-lg-6 col-md-6">

@@ -48,7 +48,7 @@ export default function CounterHomeThree({ style_2 }: Props) {
                 </div>
                 {i !== 3 &&
                   <div className="count-animal d-lg-block d-none">
-                    <img src="assets/img/icon/count-animal.svg" alt="img" />
+                    <img src="/assets/img/icon/count-animal.svg" alt="img" />
                   </div>
                 }
               </React.Fragment>

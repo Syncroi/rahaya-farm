@@ -1,5 +1,4 @@
 import { StaticImageData } from "next/image";
-
 import demo_img_1 from "@/assets/img/header/home-1.jpg";
 import demo_img_2 from "@/assets/img/header/home-2.jpg";
 import demo_img_3 from "@/assets/img/header/home-3.jpg";
@@ -17,23 +16,22 @@ interface DataType {
   }[];
 }
 
-// menu data
-const menu_data: DataType[] = [
+export const getMenuData = (locale: string): DataType[] => [
   {
     id: 1,
     title: "Home",
-    link: "/",
+    link: `/${locale}`,
     img_dropdown: false,
     sub_menus: [
-      { link: "/", title: "Home 01", demo_img: demo_img_1 },
-      { link: "/home-2", title: "Home 02", demo_img: demo_img_2 },
-      { link: "/home-3", title: "Home 03", demo_img: demo_img_3 },
+      { link: `/${locale}`, title: "Home 01", demo_img: demo_img_1 },
+      { link: `/${locale}/home-2`, title: "Home 02", demo_img: demo_img_2 },
+      { link: `/${locale}/home-3`, title: "Home 03", demo_img: demo_img_3 },
     ],
   },
   {
     id: 2,
     title: "About Us",
-    link: "/about",
+    link: `/${locale}/about`,
     has_dropdown: false,
   },
   {
@@ -42,8 +40,8 @@ const menu_data: DataType[] = [
     link: "#",
     has_dropdown: true,
     sub_menus: [
-      { link: "/service", title: "Services" },
-      { link: "/service-details", title: "Services Details" },
+      { link: `/${locale}/service`, title: "Services" },
+      { link: `/${locale}/service-details`, title: "Services Details" },
     ],
   },
   {
@@ -52,38 +50,37 @@ const menu_data: DataType[] = [
     link: "#",
     has_dropdown: true,
     sub_menus: [
-      { link: "/gallery", title: "Gallery" },
-      { link: "/gallery-details", title: "Gallery Details" },
+      { link: `/${locale}/gallery`, title: "Gallery" },
+      { link: `/${locale}/gallery-details`, title: "Gallery Details" },
     ],
   },
   {
     id: 6,
     title: "Products",
-    link: "/product-list",
+    link: `/${locale}/product-list`,
     has_dropdown: false,
     sub_menus: [
-      { link: "/about", title: "About" },
-      { link: "/product-list", title: "Product" },
-      { link: "/product-details", title: "Product Details" },
-      { link: "/faq", title: "FAQ" },
-      { link: "/contact", title: "Contact" },
+      { link: `/${locale}/about`, title: "About" },
+      { link: `/${locale}/product-list`, title: "Product" },
+      { link: `/${locale}/product-details`, title: "Product Details" },
+      { link: `/${locale}/faq`, title: "FAQ" },
+      { link: `/${locale}/contact`, title: "Contact" },
     ],
   },
   {
-	id: 5,
-	title: "Special Packs",
-	link: "/blog",
-	has_dropdown: false,
-	sub_menus: [
-		{ link: "/blog", title: "Blog" },
-		{ link: "/blog-details", title: "Blog Details" },
-	],
-},
+    id: 5,
+    title: "Special Packs",
+    link: `/${locale}/blog`,
+    has_dropdown: false,
+    sub_menus: [
+      { link: `/${locale}/blog`, title: "Blog" },
+      { link: `/${locale}/blog-details`, title: "Blog Details" },
+    ],
+  },
   {
     id: 7,
     title: "Contact",
-    link: "/contact",
+    link: `/${locale}/contact`,
     has_dropdown: false,
   },
 ];
-export default menu_data;

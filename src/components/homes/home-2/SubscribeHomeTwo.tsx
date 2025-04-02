@@ -30,7 +30,7 @@ export default function SubscribeHomeTwo() {
               </div>
             </div>
            
-            <img src="assets/img/footer/subscribe-shapev2.png" alt="img" className="subscribe-shapev2" />
+            <img src="/assets/img/footer/subscribe-shapev2.png" alt="img" className="subscribe-shapev2" />
           </div>
         </div>
       </div>

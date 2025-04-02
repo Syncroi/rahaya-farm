@@ -89,7 +89,7 @@ export default function HeaderThree() {
                     <div className="logo">
                       <Link href="/" className="header-logo">
                         <img
-                          src="assets/img/logo/logo-black.png"
+                          src="/assets/img/logo/logo-black.png"
                           alt="logo-img"
                         />
                       </Link>
@@ -105,7 +105,7 @@ export default function HeaderThree() {
                     </div>
                     <div className="common-adjust-toggle">
                       <a href="#" className="header-help">
-                        <img src="assets/img/icon/chat.svg" alt="img" />
+                        <img src="/assets/img/icon/chat.svg" alt="img" />
                         <span className="d-grid">
                           <span className="need">Need help?</span>
                           <span className="call">+20 1206104083</span>

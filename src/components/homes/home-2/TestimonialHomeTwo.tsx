@@ -43,7 +43,7 @@ export default function TestimonialHomeTwo() {
                     <div className="testimonail-common-items">
                       <div className="d-flex justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -53,7 +53,7 @@ export default function TestimonialHomeTwo() {
                             </span>
                           </div>
                         </div>
-                        <img src="assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
+                        <img src="/assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
                       </div>
                       <div className="stars">
                         <i className="fa-solid fa-star"></i>
@@ -74,7 +74,7 @@ export default function TestimonialHomeTwo() {
                     <div className="testimonail-common-items">
                       <div className="d-flex justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -84,7 +84,7 @@ export default function TestimonialHomeTwo() {
                             </span>
                           </div>
                         </div>
-                        <img src="assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
+                        <img src="/assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
                       </div>
                       <div className="stars">
                         <i className="fa-solid fa-star"></i>
@@ -105,7 +105,7 @@ export default function TestimonialHomeTwo() {
                     <div className="testimonail-common-items">
                       <div className="d-flex justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -115,7 +115,7 @@ export default function TestimonialHomeTwo() {
                             </span>
                           </div>
                         </div>
-                        <img src="assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
+                        <img src="/assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
                       </div>
                       <div className="stars">
                         <i className="fa-solid fa-star"></i>
@@ -136,7 +136,7 @@ export default function TestimonialHomeTwo() {
                     <div className="testimonail-common-items">
                       <div className="d-flex justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -146,7 +146,7 @@ export default function TestimonialHomeTwo() {
                             </span>
                           </div>
                         </div>
-                        <img src="assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
+                        <img src="/assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
                       </div>
                       <div className="stars">
                         <i className="fa-solid fa-star"></i>
@@ -167,7 +167,7 @@ export default function TestimonialHomeTwo() {
                     <div className="testimonail-common-items">
                       <div className="d-flex justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -177,7 +177,7 @@ export default function TestimonialHomeTwo() {
                             </span>
                           </div>
                         </div>
-                        <img src="assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
+                        <img src="/assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
                       </div>
                       <div className="stars">
                         <i className="fa-solid fa-star"></i>
@@ -198,7 +198,7 @@ export default function TestimonialHomeTwo() {
                     <div className="testimonail-common-items">
                       <div className="d-flex justify-content-between">
                         <div className="review-man">
-                          <img src="assets/img/testimonial/re2.png" alt="img" />
+                          <img src="/assets/img/testimonial/re2.png" alt="img" />
                           <div className="cont">
                             <h3>
                               Leslie Alexander
@@ -208,7 +208,7 @@ export default function TestimonialHomeTwo() {
                             </span>
                           </div>
                         </div>
-                        <img src="assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
+                        <img src="/assets/img/icon/quote-leftp2.svg" alt="icon" className="qute" />
                       </div>
                       <div className="stars">
                         <i className="fa-solid fa-star"></i>
@@ -243,9 +243,9 @@ export default function TestimonialHomeTwo() {
             </div>
             <div className="col-lg-6 col-md-6">
               <div className="testimonial-thumbv2 w-100 wow fadeInDown" data-wow-delay=".4s">
-                <img src="assets/img/testimonial/testimonial-thumb2.png" alt="img" className="w-100" />
+                <img src="/assets/img/testimonial/testimonial-thumb2.png" alt="img" className="w-100" />
                 <div className="testimonial-count">
-                  <img src="assets/img/icon/apple-count.png" alt="img" />
+                  <img src="/assets/img/icon/apple-count.png" alt="img" />
                   <div className="cont">
                     <h3>
                       <span className="count">4</span>k+

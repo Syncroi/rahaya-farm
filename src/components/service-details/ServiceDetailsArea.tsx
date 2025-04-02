@@ -88,7 +88,7 @@ export default function ServiceDetailsArea() {
             <div className="col-lg-8">
               <div className="service-wrapper-right ps-xl-2">
                 <div className="thumb mb-30 wow fadeInUp" data-wow-delay=".3s">
-                  <img src="assets/img/service/birdshouse.jpg" alt="img" />
+                  <img src="/assets/img/service/birdshouse.jpg" alt="img" />
                 </div>
                 <div className="cont-box wow fadeInUp" data-wow-delay=".4">
                   <h3>
@@ -108,7 +108,7 @@ export default function ServiceDetailsArea() {
                       Prepare <br /> the soil
                     </h3>
                     <div className="details-iconbox d-center">
-                      <img src="assets/img/icon/details-desert.svg" alt="img" />
+                      <img src="/assets/img/icon/details-desert.svg" alt="img" />
                     </div>
                   </div>
                   <div className="working-proces-items01 wow fadeInUp" data-wow-delay=".5s">
@@ -116,7 +116,7 @@ export default function ServiceDetailsArea() {
                       Prepare <br /> the soil
                     </h3>
                     <div className="details-iconbox d-center">
-                      <img src="assets/img/icon/details-flower.svg" alt="img" />
+                      <img src="/assets/img/icon/details-flower.svg" alt="img" />
                     </div>
                   </div>
                 </div>
@@ -134,10 +134,10 @@ export default function ServiceDetailsArea() {
                 </div>
                 <div className="service-single-thumb">
                   <div className="thumb wow fadeInUp" data-wow-delay=".7s">
-                    <img src="assets/img/service/lemon.jpg" alt="img" />
+                    <img src="/assets/img/service/lemon.jpg" alt="img" />
                   </div>
                   <div className="thumb wow fadeInUp" data-wow-delay=".8s">
-                    <img src="assets/img/service/sitting.jpg" alt="img" />
+                    <img src="/assets/img/service/sitting.jpg" alt="img" />
                   </div>
                 </div>
               </div>

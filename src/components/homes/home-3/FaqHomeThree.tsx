@@ -75,7 +75,7 @@ export default function FaqHomeThree() {
           </div>
         </div>
 
-        <img src="assets/img/element/faq-element.png" alt="img" className="faq-element" />
+        <img src="/assets/img/element/faq-element.png" alt="img" className="faq-element" />
       </section>
 
       {/* video modal start */}

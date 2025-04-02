@@ -11,7 +11,7 @@ export default function AboutHomeOne() {
               <div className="about-thumv01 position-relative">
               <div className="w-32 h-32 rounded-full border-4 border-white overflow-hidden">
   <img
-    src="assets/img/about/brokly.jpg"
+    src="/assets/img/about/brokly.jpg"
     alt="img"
     className="w-full h-full object-cover"
   />
@@ -19,18 +19,18 @@ export default function AboutHomeOne() {
 
 
                 <img
-                  src="assets/img/about/f-food.png"
+                  src="/assets/img/about/f-food.png"
                   alt="img"
                   className="f-food"
                 />
                 <img
-                  src="assets/img/about/l-food.png"
+                  src="/assets/img/about/l-food.png"
                   alt="img"
                   className="l-food wow fadeInLeft"
                   data-wow-delay=".5s"
                 />
                 <img
-                  src="assets/img/about/t-food.png"
+                  src="/assets/img/about/t-food.png"
                   alt="img"
                   className="t-food wow fadeInLeft"
                   data-wow-delay=".7s"

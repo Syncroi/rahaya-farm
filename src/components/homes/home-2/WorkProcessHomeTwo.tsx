@@ -27,7 +27,7 @@ export default function WorkProcessHomeTwo() {
                 <h3 className="white-clr">
                   Prepare <br /> the soil
                 </h3>
-                <img src="assets/img/element/step-shape.png" alt="img" className="step-working" />
+                <img src="/assets/img/element/step-shape.png" alt="img" className="step-working" />
                 <span className="step-text">
                   01
                 </span>
@@ -38,7 +38,7 @@ export default function WorkProcessHomeTwo() {
                 <h3 className="white-clr">
                   Farm the <br /> seeds
                 </h3>
-                <img src="assets/img/element/step-shape.png" alt="img" className="step-working" />
+                <img src="/assets/img/element/step-shape.png" alt="img" className="step-working" />
                 <span className="step-text">
                   02
                 </span>
@@ -49,7 +49,7 @@ export default function WorkProcessHomeTwo() {
                 <h3 className="white-clr">
                   Water the <br /> plants
                 </h3>
-                <img src="assets/img/element/step-shape.png" alt="img" className="step-working" />
+                <img src="/assets/img/element/step-shape.png" alt="img" className="step-working" />
                 <span className="step-text">
                   03
                 </span>
@@ -60,17 +60,17 @@ export default function WorkProcessHomeTwo() {
                 <h3 className="white-clr">
                   Fertilize <br /> the Farm
                 </h3>
-                <img src="assets/img/element/step-shape.png" alt="img" className="step-working" />
+                <img src="/assets/img/element/step-shape.png" alt="img" className="step-working" />
                 <span className="step-text">
                   04
                 </span>
               </div>
             </div>
 
-            <img src="assets/img/element/arro-round-top.png" alt="img" className="working-arrows-one" />
-            <img src="assets/img/element/arro-round-bottom.png" alt="img"
+            <img src="/assets/img/element/arro-round-top.png" alt="img" className="working-arrows-one" />
+            <img src="/assets/img/element/arro-round-bottom.png" alt="img"
               className="working-arrows-two d-lg-block d-none" />
-            <img src="assets/img/element/arro-round-bottom.png" alt="img"
+            <img src="/assets/img/element/arro-round-bottom.png" alt="img"
               className="working-arrows-three d-lg-block d-none" />
           </div>
           <p className="processs-text">
@@ -86,8 +86,8 @@ export default function WorkProcessHomeTwo() {
           </p>
         </div>
 
-        <img src="assets/img/element/sylli.png" alt="img" className="working-slilli" />
-        <img src="assets/img/element/green-area.png" alt="img" className="working-green" />
+        <img src="/assets/img/element/sylli.png" alt="img" className="working-slilli" />
+        <img src="/assets/img/element/green-area.png" alt="img" className="working-green" />
       </section>
     </>
   )

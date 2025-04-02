@@ -48,7 +48,7 @@ export default function HeroHomeTwo() {
         </div>
 
         <img
-  src="assets/img/banner/banner.jpg"
+  src="/assets/img/banner/banner.jpg"
   alt="img"
   className="hero-v02-thumb w-full h-auto"
   style={{ clipPath: 'polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%)' }}

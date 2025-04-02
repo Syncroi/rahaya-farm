@@ -8,27 +8,27 @@ export default function TestimoniaHomeOne() {
     {
       name: "Karim Eid",
       designation: "CLIENT",
-      image: "assets/img/testimonial/re1.png",
+      image: "/assets/img/testimonial/re1.png",
       description:
         "The most beautiful place to sit is the one who grows in front of you day by day",
     },
     {
       name: "Noha El-khashab",
       designation: "CLIENT",
-      image: "assets/img/testimonial/re1.png",
+      image: "/assets/img/testimonial/re1.png",
       description:
         "  We had an amazing day in Rahaya.. Me, my kids and friends… Amazing food and quality of service.",
     },
     {
       name: "Mohamed Elashkr",
       designation: "CLIENT",
-      image: "assets/img/testimonial/re1.png",
+      image: "/assets/img/testimonial/re1.png",
       description: "The best place to get relaxed 😊 …",
     },
     {
       name: "Mohamed Sedki",
       designation: "CLIENT",
-      image: "assets/img/testimonial/re1.png",
+      image: "/assets/img/testimonial/re1.png",
       description: "Very promising place and excellent service",
     },
   ];
@@ -43,7 +43,7 @@ export default function TestimoniaHomeOne() {
                 data-wow-delay=".4s"
               >
                 <img
-                  src="assets/img/testimonial/testimonial.png"
+                  src="/assets/img/testimonial/testimonial.png"
                   alt="img"
                   className="w-100"
                 />
@@ -77,7 +77,7 @@ export default function TestimoniaHomeOne() {
                         <div className="testimonail-common-items">
                           <div className="ratting d-flex align-items-center justify-content-between">
                             <img
-                              src="assets/img/icon/quote-left.svg"
+                              src="/assets/img/icon/quote-left.svg"
                               alt="icon"
                             />
                             <div className="stars">
@@ -108,7 +108,7 @@ export default function TestimoniaHomeOne() {
         </div>
 
         <img
-          src="assets/img/element/flower-badge.png"
+          src="/assets/img/element/flower-badge.png"
           alt="img"
           className="flower-testimonial d-sm-block d-none"
         />

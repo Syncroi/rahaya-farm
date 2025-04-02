@@ -11,7 +11,7 @@ export default function SubscribeHomeOne() {
               <div className="row g-4 justify-content-lg-start justify-content-between align-items-end">
                 <div className="col-lg-5 col-md-5">
                   <div className="subscribe-thumb">
-                    <img src="assets/img/footer/subscribe.png" alt="img" className="w-100" />
+                    <img src="/assets/img/footer/subscribe.png" alt="img" className="w-100" />
                   </div>
                 </div>
                 <div className="col-lg-1 d-lg-block d-none"></div>

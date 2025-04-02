@@ -187,7 +187,7 @@ export default function FooterOne() {
         </div>
 
         <img
-          src="assets/img/footer/footer-wheat.png"
+          src="/assets/img/footer/footer-wheat.png"
           alt="img"
           className="footer-wheat position-absolute"
         />

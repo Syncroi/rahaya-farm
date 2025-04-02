@@ -27,7 +27,7 @@ export default function Breadcrumnd({ title, subtitle }: PropsType) {
               </ul>
             </div>
             <div className="bread-thumb d-sm-block d-none">
-              <img src="assets/img/about/tt-slice.png" alt="img" />
+              <img src="/assets/img/about/tt-slice.png" alt="img" />
             </div>
           </div>
         </div>

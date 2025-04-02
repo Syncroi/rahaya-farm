@@ -85,7 +85,7 @@ export default function GalleryDetailsArea() {
             <div className="col-lg-8">
               <div className="gallery-headleft-details">
                 <img
-                  src="assets/img/gallery/gallery-details-thumb1.jpg"
+                  src="/assets/img/gallery/gallery-details-thumb1.jpg"
                   alt="img"
                 />
                 <div className="content">
@@ -107,7 +107,7 @@ export default function GalleryDetailsArea() {
               data-wow-delay=".3s"
             >
               <img
-                src="assets/img/gallery/gallery-details-thumb12.jpg"
+                src="/assets/img/gallery/gallery-details-thumb12.jpg"
                 alt="img"
                 className="w-100"
               />

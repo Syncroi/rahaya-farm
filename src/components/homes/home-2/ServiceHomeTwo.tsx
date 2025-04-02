@@ -23,10 +23,10 @@ export default function ServiceHomeTwo() {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
               <div className="service-itemsv02">
                 <div className="thumb w-100">
-                  <img src="assets/img/service/service1.jpg" alt="img" className="w-100 mimg" />
+                  <img src="/assets/img/service/service1.jpg" alt="img" className="w-100 mimg" />
                 </div>
                 <div className="content">
-                  <div className="iocns-box d-center"><img src="assets/img/icon/desert.svg" alt="svg" /></div>
+                  <div className="iocns-box d-center"><img src="/assets/img/icon/desert.svg" alt="svg" /></div>
                   <Link href="/service-details" className="title">Green Grow Solutions</Link>
                   <p>Amet lectus mi ultricies dictum facilisis sem. Imperdiet massa turpis</p>
                   <Link href="/service-details" className="arrows">Read More <i
@@ -37,10 +37,10 @@ export default function ServiceHomeTwo() {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
               <div className="service-itemsv02">
                 <div className="thumb w-100">
-                  <img src="assets/img/service/service2.jpg" alt="img" className="w-100 mimg" />
+                  <img src="/assets/img/service/service2.jpg" alt="img" className="w-100 mimg" />
                 </div>
                 <div className="content">
-                  <div className="iocns-box d-center"><img src="assets/img/icon/fence.svg" alt="svg" /></div>
+                  <div className="iocns-box d-center"><img src="/assets/img/icon/fence.svg" alt="svg" /></div>
                   <Link href="/service-details" className="title">Farm Services</Link>
                   <p>Amet lectus mi ultricies dictum facilisis sem. Imperdiet massa turpis</p>
                   <Link href="/service-details" className="arrows">Read More <i
@@ -51,10 +51,10 @@ export default function ServiceHomeTwo() {
             <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".7s">
               <div className="service-itemsv02">
                 <div className="thumb w-100">
-                  <img src="assets/img/service/service3.jpg" alt="img" className="w-100 mimg" />
+                  <img src="/assets/img/service/service3.jpg" alt="img" className="w-100 mimg" />
                 </div>
                 <div className="content">
-                  <div className="iocns-box d-center"><img src="assets/img/icon/tree.svg" alt="svg" /></div>
+                  <div className="iocns-box d-center"><img src="/assets/img/icon/tree.svg" alt="svg" /></div>
                   <Link href="/service-details" className="title">AgriPro Consulting</Link>
                   <p>Amet lectus mi ultricies dictum facilisis sem. Imperdiet massa turpis</p>
                   <Link href="/service-details" className="arrows">Read More <i
