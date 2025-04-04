@@ -68,7 +68,7 @@ export default function Offcanvas({ open, setOpen }: Props) {
                     </div>
                   </li>
                   <li className="d-flex align-items-center">
-                    <div className="offcanvas__contact-icon mr-15">
+                    <div className="offcanvas__contact-icon mr-12">
                       <i className="far fa-phone"></i>
                     </div>
                     <div className="offcanvas__contact-text">

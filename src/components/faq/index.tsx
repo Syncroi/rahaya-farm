@@ -1,6 +1,6 @@
 
 
-import HeaderThree from '@/layouts/headers/HeaderThree'
+import HeaderTwo from '@/layouts/headers/HeaderTwo'
 import React from 'react'
 import Breadcrumnd from '../common/Breadcrumnd'
 import FooterTwo from '@/layouts/footers/FooterTwo'
@@ -11,7 +11,7 @@ import CounterHomeThree from '../homes/home-3/CounterHomeThree'
 export default function Faq() {
   return (
     <>
-      <HeaderThree />
+      <HeaderTwo />
       <Breadcrumnd title="Faq" subtitle="Faq" />
       <FaqHomeThree />
       <CounterHomeThree style_2={true} />

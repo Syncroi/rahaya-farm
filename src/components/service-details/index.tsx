@@ -1,6 +1,6 @@
 
 
-import HeaderThree from '@/layouts/headers/HeaderThree'
+import HeaderTwo from '@/layouts/headers/HeaderTwo'
 import React from 'react'
 import Breadcrumnd from '../common/Breadcrumnd'
 import SubscribeHomeThree from '../homes/home-3/SubscribeHomeThree'
@@ -10,7 +10,7 @@ import ServiceDetailsArea from './ServiceDetailsArea'
 export default function ServiceDetails() {
   return (
     <>
-      <HeaderThree />
+      <HeaderTwo />
       <Breadcrumnd title="Service Details" subtitle="Service Details" />
       <ServiceDetailsArea />
       <SubscribeHomeThree />

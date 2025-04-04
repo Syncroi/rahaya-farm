@@ -24,7 +24,7 @@ export default function LocaleLayout({
   return (
     <html lang={locale} dir={dir}>
       <body>
-        <I18nProvider locale={locale} messages={messages}>
+        <I18nProvider locale={locale} messages={messages} timeZone="Africa/Cairo"> 
           {children}
         </I18nProvider>
       </body>

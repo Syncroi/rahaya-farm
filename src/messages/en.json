@@ -1,6 +1,10 @@
 {
   "welcome": "Welcome!",
   "home": "Home",
+  "header": {
+    "address": "Cairo Alexandria desert road km 80, Cairo, Egypt",
+    "book": "Book An Appointment"
+  },
   "cairo":"Cairo",
   "contact": {
     "addressTitle": "Address",
@@ -13,5 +17,69 @@
 
     "emailTitle": "Send us email",
     "email": "MohamedKh@Syncroi.com"
+  },
+  "menu": {
+    "home": "Home",
+    "home01": "Home 01",
+    "home02": "Home 02",
+    "home03": "Home 03",
+    "about": "About Us",
+    "services": "Services",
+    "servicesList": "Services",
+    "servicesDetails": "Service Details",
+    "projects": "Projects",
+    "gallery": "Gallery",
+    "galleryDetails": "Gallery Details",
+    "products": "Products",
+    "product": "Product",
+    "productDetails": "Product Details",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "specialPacks": "Special Packs",
+    "blog": "Blog",
+    "blogDetails": "Blog Details"
+  },
+  "footer": {
+    "addressLine1": "Cairo Alexandria desert road km 80",
+    "addressLine2": "Cairo, Egypt",
+    "servicesTitle": "Service",
+    "services": [
+      "Success Steps Education",
+      "Pathway to Progress",
+      "Skill Builders Academy",
+      "Academic Achievers"
+    ],
+    "linksTitle": "Link",
+    "links": {
+      "about": "About Us",
+      "service": "Service",
+      "faq": "FAQ",
+      "blog": "Blog And News"
+    },
+    "contactTitle": "Contact",
+    "rights": "All Rights Reserved",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "contactUs": "Contact Us"
+  },
+  "footerTwo": {
+    "aboutText": "Rahaya Farm is dedicated to growing fresh, high-quality produce that nourishes both people and the planet.",
+    "servicesTitle": "Service",
+    "newsletter": "Newsletter"
+  },
+  "footer": {
+    "links": {
+      "about": "About Us",
+      "service": "Service",
+      "faq": "FAQ",
+      "blog": "Blog And News"
+    },
+    "contactTitle": "Contact",
+    "addressLine1": "Cairo Alexandria desert road",
+    "addressLine2": "km 80, Cairo, Egypt",
+    "rights": "All Rights Reserved",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "contactUs": "Contact Us"
   }
 }

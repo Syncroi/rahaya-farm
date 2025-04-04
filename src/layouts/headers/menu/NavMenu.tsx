@@ -5,11 +5,12 @@ import Link from 'next/link';
 import React from 'react';
 import { useLocale } from 'next-intl';
 import { getMenuData } from '@/data/menu_data';
+import { useTranslations } from 'next-intl';
 
 export default function NavMenu() {
   const locale = useLocale();
-  const menu_data = getMenuData(locale);
-
+  const t = useTranslations(); 
+  const menu_data = getMenuData(locale, t);
   return (
     <ul>
       {menu_data.map((item, i) => (

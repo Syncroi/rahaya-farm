@@ -21,19 +21,19 @@ export default function HeaderTwo() {
         <div className="container">
           <div className="header-top-wrapper">
             <a href="" className="location-area flex gap-2">
-              <i className="fa-solid fa-location-dot"></i>
-              <span>{t('cairo')} Alexandria desert road km 80, Cairo, Egypt</span>
+              <i className="fa-solid fa-location-dot mx-2"></i>
+              <span>{t('header.address')}</span>
             </a>
             <ul className="contact-list">
-              <li>
-                <a href=" tel:+20 1114288800" className="link" target="_blank">
+              <li >
+                <a href="tel:+20 1114288800" className="link" target="_blank" dir="ltr"> 
                   <i className="fa-solid fa-phone"></i>
                   +20 1114288800
                 </a>
               </li>
               <li>
-                <a href="mailto:MohamedKh@Syncroi.com" className="link">
-                  <i className="fa-solid fa-envelope"></i>
+                <a href="mailto:MohamedKh@Syncroi.com" className="link" dir="ltr">
+                  <i className="fa-solid fa-envelope mx-1"></i>
                   MohamedKh@Syncroi.com
                 </a>
               </li>
@@ -80,10 +80,9 @@ export default function HeaderTwo() {
                     <i className="fa-solid fa-magnifying-glass"></i>
                   </a>
                   <div className="header-button d-sm-block d-none">
-                    <Link href="/contact" className="cmn-btn round100">
-                      Book An Appointment
-                      <i className="fa-solid fa-arrow-right"></i>
-                    </Link>
+                  <Link href="/contact" className="cmn-btn round100">
+                     {t('header.book')} <i className="fa-solid fa-arrow-right"></i>
+                  </Link>
                   </div>
                 </div>
                 <div className="header__hamburger d-xl-none my-auto">
